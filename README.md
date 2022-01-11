@@ -1,6 +1,5 @@
 - Hi, I am Gabriel Colón, Software Engineering Student at the University of Puerto Rico, Mayagüez Campus. 
-- I’m interested in software, astronomy, game development, web depelopment, and anything that comes with computers.
-- 💞️ I’m looking to collaborate on projects related to my interests that grow my skills on them.
+- I’m interested in software, astronomy, game development, web depelopment, and anything that comes with computers :D
 - 📫 How to reach me: email me at gabriel.colon32@upr.edu :)
 
 <!---
